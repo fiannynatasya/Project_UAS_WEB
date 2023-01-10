@@ -11,3 +11,6 @@
 
 ## Dengan File UAS PROJECT ##
 ![Screenshot (130)](https://user-images.githubusercontent.com/94009296/211482627-df75fb62-597c-4e5e-97b9-a36b474fb04f.png)
+
+## Membuat codingan di visual code ##
+![Screenshot (131)](https://user-images.githubusercontent.com/94009296/211487047-dd5ee5a9-a67e-48e5-8d46-d97b5c4e5449.png)
