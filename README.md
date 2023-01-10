@@ -9,3 +9,5 @@
 ## Langkah Kedua ##
 ![Screenshot (128)](https://user-images.githubusercontent.com/94009296/211481151-234e153d-5290-4fc2-93ac-f64d6f52fb1e.png)
 
+## Dengan File ##
+![Screenshot (130)](https://user-images.githubusercontent.com/94009296/211482627-df75fb62-597c-4e5e-97b9-a36b474fb04f.png)
