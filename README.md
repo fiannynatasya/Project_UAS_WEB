@@ -14,3 +14,10 @@
 
 ## Membuat codingan di visual code ##
 ![Screenshot (131)](https://user-images.githubusercontent.com/94009296/211487047-dd5ee5a9-a67e-48e5-8d46-d97b5c4e5449.png)
+
+![Screenshot (133)](https://user-images.githubusercontent.com/94009296/212679164-b46983c8-0213-4309-92e7-54f4c95b72e5.png)
+
+![Screenshot (134)](https://user-images.githubusercontent.com/94009296/212679181-aa9023ad-4ba6-4a11-a21d-cfde88f7fb76.png)
+
+
+
